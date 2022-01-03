@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP-Noel</string>
+    <string name="dim_space_team">DIM Space Team</string>
+    <string name="i_am_a_famous_astronaut">I am a famous Astronaut</string>
+    <string name="i_am_new_to_space_program">I am new to Space Program</string>
+    <string name="waiting_text">Enter a room name to join or create a game ...</string>
+    <string name="text_score">Your score for this game was :</string>
+</resources>
